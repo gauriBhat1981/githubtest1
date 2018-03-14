@@ -84,8 +84,6 @@ if($result->num_rows > 0)
 			$con->query($q3);
 		}
 	}
-	
-	sdfk;ldkf;lds ;lsdkf l;ds
 }
 
 ?>
